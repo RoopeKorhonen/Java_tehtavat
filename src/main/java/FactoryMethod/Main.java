@@ -1,5 +1,5 @@
 package FactoryMethod;
-
+/* Testi committiin ja puskuun */
 public class Main {
 
     public static void main(String[] args) {
