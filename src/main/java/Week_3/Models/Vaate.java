@@ -1,4 +1,4 @@
-package Week_2.Models;
+package Week_3.Models;
 
 public interface Vaate {
     String toString();

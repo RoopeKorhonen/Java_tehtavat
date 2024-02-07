@@ -1,5 +1,5 @@
-package Week_2.Factories;
-import Week_2.Models.Vaate;
+package Week_3.Factories;
+import Week_3.Models.Vaate;
 public interface VaateFactory {
     Vaate luoFarmarit();
     Vaate luoTPaita();

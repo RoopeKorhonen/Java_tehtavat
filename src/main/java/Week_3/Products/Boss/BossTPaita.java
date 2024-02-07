@@ -1,6 +1,6 @@
-package Week_2.Products.Boss;
+package Week_3.Products.Boss;
 
-import Week_2.Models.Vaate;
+import Week_3.Models.Vaate;
 
 public class BossTPaita implements Vaate {
     @Override

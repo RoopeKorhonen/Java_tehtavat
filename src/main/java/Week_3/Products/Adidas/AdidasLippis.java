@@ -1,5 +1,5 @@
-package Week_2.Products.Adidas;
-import Week_2.Models.Vaate;
+package Week_3.Products.Adidas;
+import Week_3.Models.Vaate;
 
 public class AdidasLippis implements Vaate {
     @Override

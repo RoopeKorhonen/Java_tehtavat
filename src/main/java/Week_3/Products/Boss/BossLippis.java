@@ -1,5 +1,5 @@
-package Week_2.Products.Boss;
-import Week_2.Models.Vaate;
+package Week_3.Products.Boss;
+import Week_3.Models.Vaate;
 public class BossLippis implements Vaate {
     @Override
     public String toString() {

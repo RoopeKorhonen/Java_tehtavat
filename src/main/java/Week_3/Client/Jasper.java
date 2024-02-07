@@ -1,6 +1,6 @@
-package Week_2.Client;
-import Week_2.Factories.VaateFactory;
-import Week_2.Models.Vaate;
+package Week_3.Client;
+import Week_3.Factories.VaateFactory;
+import Week_3.Models.Vaate;
 
 
 public class Jasper {
