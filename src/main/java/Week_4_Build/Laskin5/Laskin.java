@@ -41,5 +41,8 @@ public class Laskin {
     public void virtaOFF() {
         // Tähän voisi laittaa lopputoimet
     }
+
+    public void neliojuuri(int i) {
+    }
 }
 
