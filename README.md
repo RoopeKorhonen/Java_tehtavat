@@ -1,4 +1,4 @@
-# Week_5_assignment
+# Week_5_Lecture_assignment
 
 
 ### Tehny Sami & Roope
